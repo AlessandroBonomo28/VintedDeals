@@ -40,4 +40,4 @@ TOKEN = "xxxxxxx"
 python vinteddeals.py
 ```
 ### Extra
-you can enforce the use of the whitelist to allow bot access only to a custom set of users. Set `ENFORCE_WHITELIST` to true and insert your whitelisred chat IDs into `whitelist.json`
+you can enforce the use of the whitelist to allow bot access only to a custom set of users. Set `ENFORCE_WHITELIST` to true and insert your whitelisted chat IDs into `whitelist.json`
