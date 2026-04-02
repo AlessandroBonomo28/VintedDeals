@@ -6,7 +6,7 @@ Telegram bot that finds best vinted deals
 - Multiple Keywords: Track as many items as you want.
 - Interactive Menu: Easy-to-use Telegram commands with a custom keyboard.
 
-<img width="765" height="552" alt="Senza nome" src="https://github.com/user-attachments/assets/3b51589b-8414-4ba0-a998-61ddff6880d1" />
+<img width="765" height="552" alt="Senza nome" src="https://github.com/user-attachments/assets/1872812e-20f9-4886-89d3-9d2c8cb8ba87" />
 
 ## Setup
 - Install *Python 3.11.0* or later
